@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2019-12-14T18:48:59 IST" finished-at="2019-12-14T18:48:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2019-12-14T18:48:59 IST" finished-at="2019-12-14T18:48:59 IST">
+      <class name="maventest.restapiTest">
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:maventest.restapiTest@589838eb]" name="deletetwitter" duration-ms="8" started-at="2019-12-14T18:48:59 IST" finished-at="2019-12-14T18:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:maventest.restapiTest@589838eb]" name="postjira" duration-ms="1" started-at="2019-12-14T18:48:59 IST" finished-at="2019-12-14T18:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- maventest.restapiTest -->
+      <class name="maventest.seleniumTest">
+        <test-method status="PASS" signature="browserautomated()[pri:0, instance:maventest.seleniumTest@42dafa95]" name="browserautomated" duration-ms="0" started-at="2019-12-14T18:48:59 IST" finished-at="2019-12-14T18:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomated -->
+        <test-method status="PASS" signature="elemnetsui()[pri:0, instance:maventest.seleniumTest@42dafa95]" name="elemnetsui" duration-ms="0" started-at="2019-12-14T18:48:59 IST" finished-at="2019-12-14T18:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elemnetsui -->
+      </class> <!-- maventest.seleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
